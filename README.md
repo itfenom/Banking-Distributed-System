@@ -1,1 +1,1 @@
-# Operating systems project C++
+# Banking distributed systems project C++
